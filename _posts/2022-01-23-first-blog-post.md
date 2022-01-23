@@ -1,5 +1,5 @@
 ---
-titel: "First Blog Post"
+titel: First Blog Post
 date: 2022-01-23
 ---
 
