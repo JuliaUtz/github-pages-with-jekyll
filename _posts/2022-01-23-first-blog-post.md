@@ -1,6 +1,6 @@
 ---
-layout: post
 titel: "Welcome to Jekyll"
+date: 2022-01-23
 ---
 
 # Header of the post
